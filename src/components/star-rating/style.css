@@ -1,0 +1,11 @@
+.wrapper {
+  width: 100vw;
+  height: 100vh;
+  padding-top: 70px;
+  text-align: center;
+}
+
+.active {
+  cursor: pointer;
+  color: #ffd000;
+}
